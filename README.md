@@ -34,12 +34,27 @@ The gameplay flow remains unchanged; only idle energy consumption is reduced.
 
 ## 🔗 Repository
 
-* GitHub: [https://github.com/yaim0425/YAIM0425-d14b-minimal-drain-electricity](https://github.com/yaim0425/YAIM0425-d14b-minimal-drain-electricity)
+**MOD**
+[YAIM0425 d14b Minimal drain electricity](https://github.com/yaim0425/YAIM0425-d14b-minimal-drain-electricity)
+
+**Required**
+
+[YAIM0425 d00b Core](https://github.com/yaim0425/YAIM0425-d00b-core)
+
+---
+
+## ❤️ Support
+
+Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
 
 ---
 
 ## 🖼️ Screenshots
 
-![Minimal Drain Screenshot 1](screenshot/\(1\).png)
+![Screenshot 1](https://github.com/yaim0425/YAIM0425-d14b-minimal-drain-electricity/raw/code/screenshot/(1).png)
 
----
+![Screenshot 2](https://github.com/yaim0425/YAIM0425-d14b-minimal-drain-electricity/raw/code/screenshot/(2).png)
+
+![Screenshot 3](https://github.com/yaim0425/YAIM0425-d14b-minimal-drain-electricity/raw/code/screenshot/(3).png)
+
+![Screenshot 4](https://github.com/yaim0425/YAIM0425-d14b-minimal-drain-electricity/raw/code/screenshot/(4).png)
