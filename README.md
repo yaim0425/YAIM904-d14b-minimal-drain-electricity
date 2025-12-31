@@ -1,8 +1,8 @@
-# YAIM0425 d14b – Minimal Drain Electricity ⚡
+# YAIM904 d14b – Minimal Drain Electricity ⚡
 
 ## 📦 Description
 
-**YAIM0425 d14b – Minimal Drain Electricity** modifies entities so they **consume only a minimal amount of electricity when inactive**.
+**YAIM904 d14b – Minimal Drain Electricity** modifies entities so they **consume only a minimal amount of electricity when inactive**.
 
 The purpose of this MOD is to reduce unnecessary idle power drain, especially in large factories with many machines that are not always working, while keeping normal energy usage when entities are active.
 
@@ -35,11 +35,11 @@ The gameplay flow remains unchanged; only idle energy consumption is reduced.
 ## 🔗 Repository
 
 **MOD**
-[YAIM0425 d14b Minimal drain electricity](https://github.com/yaim0425/YAIM0425-d14b-minimal-drain-electricity)
+[YAIM904 d14b Minimal drain electricity](https://github.com/yaim0425/YAIM904-d14b-minimal-drain-electricity)
 
 **Required**
 
-[YAIM0425 d00b Core](https://github.com/yaim0425/YAIM0425-d00b-core)
+[YAIM904 d00b Core](https://github.com/yaim0425/YAIM904-d00b-core)
 
 ---
 
@@ -51,10 +51,10 @@ Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
 
 ## 🖼️ Screenshots
 
-![Screenshot 1](https://github.com/yaim0425/YAIM0425-d14b-minimal-drain-electricity/raw/code/screenshot/(1).png)
+![Screenshot 1](https://github.com/yaim0425/YAIM904-d14b-minimal-drain-electricity/raw/code/screenshot/(1).png)
 
-![Screenshot 2](https://github.com/yaim0425/YAIM0425-d14b-minimal-drain-electricity/raw/code/screenshot/(2).png)
+![Screenshot 2](https://github.com/yaim0425/YAIM904-d14b-minimal-drain-electricity/raw/code/screenshot/(2).png)
 
-![Screenshot 3](https://github.com/yaim0425/YAIM0425-d14b-minimal-drain-electricity/raw/code/screenshot/(3).png)
+![Screenshot 3](https://github.com/yaim0425/YAIM904-d14b-minimal-drain-electricity/raw/code/screenshot/(3).png)
 
-![Screenshot 4](https://github.com/yaim0425/YAIM0425-d14b-minimal-drain-electricity/raw/code/screenshot/(4).png)
+![Screenshot 4](https://github.com/yaim0425/YAIM904-d14b-minimal-drain-electricity/raw/code/screenshot/(4).png)

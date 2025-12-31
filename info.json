@@ -1,12 +1,12 @@
 {
-  "name": "YAIM0425-d14b-minimal-drain-electricity",
+  "name": "YAIM904-d14b-minimal-drain-electricity",
   "version": "0.0.1",
-  "title": "YAIM0425 d14b Minimal drain electricity",
-  "author": "YAIM0425",
+  "title": "YAIM904 d14b Minimal drain electricity",
+  "author": "YAIM904",
   "factorio_version": "2.0",
   "description": "Entities will minimal consume electricity when they are inactive. [[I accept suggestions]]",
-  "homepage": "https://github.com/yaim0425/YAIM0425-d14b-minimal-drain-electricity",
+  "homepage": "https://github.com/yaim0425/YAIM904-d14b-minimal-drain-electricity",
   "dependencies": [
-    "YAIM0425-d00b-core"
+    "YAIM904-d00b-core"
   ]
 }
