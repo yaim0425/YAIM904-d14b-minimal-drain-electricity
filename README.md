@@ -1,5 +1,7 @@
 # YAIM904 d14b – Minimal Drain Electricity ⚡
 
+---
+
 ## 📦 Description
 
 **YAIM904 d14b – Minimal Drain Electricity** modifies entities so they **consume only a minimal amount of electricity when inactive**.
@@ -45,7 +47,7 @@ The gameplay flow remains unchanged; only idle energy consumption is reduced.
 
 ## ❤️ Support
 
-Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
+Suggestions, ideas and balance feedback are welcome on the GitHub repository.
 
 ---
 
